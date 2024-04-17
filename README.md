@@ -8,7 +8,6 @@
 
 Today, soft and hard skills are equally important, but those who know how to work in teams, solve problems, pay attention to details, and experience mistakes as learning experiences will have way more possibility to become the leaders of tomorrow.
 
-CoderZ Team
 Written by:
 
 <!---
