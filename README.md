@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sylvester-jos-eph
-- 👀 I’m interested in ...sofware development
-- 🌱 I’m currently learning ...html $css
+- 👀 I’m a ...sofware developer
+- 🌱 laravel
 - 💞️ I’m looking to collaborate on ...Projects
-- 📫 How to reach me ...
+- 📫 How to reach me ...0759926920 @stallonsylvester068@gmail.com
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...Coding can “power up” your brain.Learning to code has definite cognitive benefits – creative problem-solving, critical thinking, and developing teamwork skills. Research dating back to 1991 has demonstrated and confirmed that coders developed higher cognitive skills on average, and that coding or other intellectually stimulating activities dramatically reduced the chances of degenerative diseases such as Alzheimer’s.
 
